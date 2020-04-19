@@ -1,0 +1,39 @@
+.max-height{
+    min-height: 100vh;
+}
+
+body{
+    background: #afa98d;
+}
+
+.quote-container{
+    background: #016fb9;
+    border-radius: 30px;
+}
+
+#generate-btn{
+    color: white !important;
+    background: #64b6ac !important;
+    border-color: #64b6ac !important;
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+    outline: none !important;
+}
+
+#generate-btn:hover{
+    background: #f7accf !important;
+    border-color: #f7accf !important;
+    color: #333333 !important;
+    outline: none !important;
+}
+
+#quote{
+    color: #28343b;
+}
+
+.author {
+    color: #182825;
+    font-family: 'Lobster', cursive;
+    font-size: 1.6rem;
+  }
+  
